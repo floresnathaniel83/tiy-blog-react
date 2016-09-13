@@ -19780,7 +19780,8 @@ var app = function app() {
 			}, React.createElement('h5', {
 				__self: this
 			}, 'Never miss a post!'), React.createElement('img', { id: 'logo2', src: 'http://magentanova.github.io/html-intro-1/images/ironyardlogo.png', __self: this
-			}));
+			}), React.createElement('div', { id: 'follow', __self: this
+			}, '+ follow'));
 		}
 
 	});
